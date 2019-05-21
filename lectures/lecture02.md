@@ -24,9 +24,9 @@ Translating English to Symbols
 
 Hence we can represent the argument symbolically as
 
-    *P* ∨ *Q*
-    ¬ *Q* 
-    ∴ *P*
+    P ∨ Q
+    ¬ Q 
+    ∴ P
 
 
 **Example 2**
@@ -43,13 +43,13 @@ Hence we can represent the argument symbolically as
 
 Combining gives
 
-    (*B* ∧ ¬*J*) ∨ (*J* ∧ ¬*B*)
+    (B ∧ ¬J) ∨ (J ∧ ¬B)
 
 **Example 3**
 
     "You won't go skiing, or you will and there won't be any snow."
 
-    ¬*G* ∨ (*G* ∧ ¬*S*)
+    ¬G ∨ (G ∧ ¬S)
 
 **Example 4**
 
@@ -58,17 +58,17 @@ Combining gives
 Equivalently, either it will rain *or* snow tomorrow. (note the *and*
 semantically means *or* in the original sentence)
 
-    *R* ∨ *S*
+    R ∨ S
 
 Translating Symbols to English
 ==============================
 
 **Example 1**
 
-    *S*: "John is stupid." 
-    *L*: "John is lazy."
+    S: "John is stupid." 
+    L: "John is lazy."
 
-    ¬*S* ∧ (*L* ∨ *S*)
+    ¬S ∧ (L ∨ S)
 
 (*Not* John is stupid) *and* (John is lazy *or* John is stupid).
 
@@ -76,10 +76,10 @@ Translating Symbols to English
 
 **Example 2**
 
-    *P*: "I will buy the pants."
-    *S*: "I will buy the shirt."
+    P: "I will buy the pants."
+    S: "I will buy the shirt."
 
-    ¬*P* ∧ ¬*S*
+    ¬P ∧ ¬S
 
 (*Not* I will buy the pants) *and* (*not* I will buy the shirt).
 
