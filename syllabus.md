@@ -107,7 +107,7 @@ is provided.** There will be 4 midterm exams and a final. Students that choose t
 ### Reading Assignments and Quizzes
 
 Reading assignments are posted on the [lecture
-schedule](lecture/index.html). I expect you to do the reading **before**
+schedule](lectures/index.html). I expect you to do the reading **before**
 class. Class time will be for asking questions about parts of the
 reading you did not understand to your satisfaction.
 
