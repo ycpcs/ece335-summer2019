@@ -124,7 +124,9 @@ statements are **true** that the conclusion *must* be **true**.
 
 **Example 5**
 
-    P ∨ Q ¬ Q ∴ P
+    P ∨ Q 
+    ¬Q 
+    ∴ P
 
 Constructing the truth table gives
 
