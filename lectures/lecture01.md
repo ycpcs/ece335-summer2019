@@ -15,7 +15,7 @@ relations, functions, etc. We will explore several common paradigm proof
 templates and see how they can be applied to many different areas of
 mathematics through the proper application of *formal logic*.
 
-1. Proofs
+Proofs
 =========
 
 The foundation of proofs involves stating several **statements** (which
@@ -31,7 +31,7 @@ proficient at writing proofs is to *practice, practice, practice*.
 Luckily there are several common proof techniques that can serve as a
 roadmap to successfully creating a valid proof.
 
-2. Examples of Proofs
+Examples of Proofs
 =====================
 
 **Prime Numbers**
@@ -39,9 +39,9 @@ roadmap to successfully creating a valid proof.
 To demonstrate a few example proofs, we will use the mathematical
 concept of *prime numbers*.
 
-    **Definition**
+> **Definition**
 
-    A *prime number* is a integer greater than 1 that cannot be written as a product of two smaller positive integers.
+> > A *prime number* is a integer greater than 1 that cannot be written as a product of two smaller positive integers.
 
 
 For example, the value 7 is *prime* but the value 9 is *not prime*
