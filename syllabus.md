@@ -82,16 +82,17 @@ Your overall grade for the course will be determined as follows:
 
 Grades are assigned on a 100-point scale:
 
->   Numeric Range   Letter Grade
->   --------------- --------------
->   90-100          A (4.0)
->   85-90           B+ (3.5)
->   80-85           B (3.0)
->   75-80           C+ (2.5)
->   70-75           C (2.0)
->   60-70           D (1.0)
->   0-60            F (0.0)
+> | Numeric Range | Letter Grade |
+> |---------------|--------------|
+> | 90-100        | A (4.0)      |
+> | 85-90         | B+ (3.5)     |
+> | 80-85         | B (3.0)      |
+> | 75-80         | C+ (2.5)     |
+> | 70-75         | C (2.0)      |
+> | 60-70         | D (1.0)      |
+> | 0-60          | F (0.0)      |
 >
+
 ### Course website
 
 Please check the [course web page](index.html), regularly for important
