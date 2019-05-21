@@ -47,7 +47,7 @@ concept of *prime numbers*.
 For example, the value 7 is *prime* but the value 9 is *not prime*
 (since it can be written as 3\*3).
 
-Consider the values computed by (2^n^ - 1) where *n* = 1, 2, 3, \...
+Consider the values computed by (2<sup>n</sup> - 1) where *n* = 1, 2, 3, \...
 
 >  n | prime?  | 2<sup>n</sup> - 1         | prime?      |
 > ---| ------- | ------------------------- | ----------- |
@@ -75,8 +75,7 @@ proving (or disproving) the conjectures to be true (or false)?
 
 *Conjecture 1*
 
-    Suppose *n* is an integer greater than 1 that is a prime number, then
-2<sup>n</sup> - 1 is prime.
+> Suppose *n* is an integer greater than 1 that is a prime number, then 2<sup>n</sup> - 1 is prime.
 
 This conjecture turns out to be false by considering the value *n* = 11
 ⇒ 2<sup>11</sup> - 1 = 2047 = 23 \* 89! Thus we have *disproven* the conjecture
@@ -86,8 +85,7 @@ need to give *any one of them*.
 
 *Conjecture 2*
 
-    Suppose *n* is an integer greater than 1 that is *not* a prime number,
-then 2<sup>n</sup> - 1 is *not* prime.
+> Suppose *n* is an integer greater than 1 that is *not* a prime number, then 2<sup>n</sup> - 1 is *not* prime.
 
 To prove this conjecture we return to the definition of prime numbers.
 
@@ -98,7 +96,7 @@ find two other positive integers *x* and *y* such that *x*\**y* = 2<sup>n</sup> 
 1 = 2<sup>ab</sup> - 1 (it can be shown that since *n* is an integer that 2<sup>n</sup> -
 1 is an integer). At this point experience, an educated guess, and often
 a little luck will lead us to the factors we are looking for. Assume *x*
-= 2<sup>b</sup> - 1 and *y* = 2<sup>(a-1)b<sup> + 2<sup>(a-2)b</sup> + \... + 2<sup>2b</sup> + 2<sup>b</sup> + 1.
+= 2<sup>b</sup> - 1 and *y* = 2<sup>(a-1)b</sup> + 2<sup>(a-2)b</sup> + \... + 2<sup>2b</sup> + 2<sup>b</sup> + 1.
 Then
 
 > ![image](images/lecture01/conjecture2.png)
@@ -107,7 +105,7 @@ At this point we would be tempted to claim that we have proven the
 conjecture since we have found two factors whose product is 2<sup>n</sup> - 1.
 However we have not proven **every part** of the definition of a prime
 number. In particular, to show 2<sup>n</sup> - 1 is not prime we *also need to
-prove that* 1 \< *x* \< 2<sup>n</sup> -1 and 1 \< *y* \< 2<sup>n</sup> - 1 (i.e. that the
+prove that* 1 < *x* < 2<sup>n</sup> -1 and 1 < *y* < 2<sup>n</sup> - 1 (i.e. that the
 factors are integers greater than one and less than our value).
 
 Since *b* < *n* ⇒ 2<sup>b</sup> < 2<sup>n</sup> ⇒ *x* = 2<sup>b</sup> - 1 < 2<sup>n</sup> - 1. Clearly
@@ -128,7 +126,7 @@ These two conjectures (the first of which is false and the second of
 which is true) lead to other interesting questions regarding prime
 numbers. For example, we know that simply because *n* is a prime does
 not guarantee that 2<sup>n</sup> - 1 is a prime, but is there a point after which
-*no* primes produce a prime of the form 2<sup>n<s\/sup> - 1? A related question
+*no* primes produce a prime of the form 2<sup>n</sup> - 1? A related question
 that is even more interesting is whether or not there are an *infinite*
 number of primes? Clearly when we start asking questions regarding
 infinite sets, we cannot exhaustively check every element of the set,
@@ -139,7 +137,7 @@ conjectures about infinite sets.
 
 *Conjecture 3*
 
-    There are infinitely many prime numbers.
+> There are infinitely many prime numbers.
 
 To construct this proof we will create an assumption that is the
 opposite of what we wish to prove and then show that the assumption must
@@ -178,7 +176,7 @@ The above examples demonstrate several basic proof techniques.
 -   A *constructive* proof gives a method for verifying the conjecture
     for any particular values. For example given any non-prime number
     *n*, simply *construct* *x* and *y* as given in the proof to produce
-    two factors for 2^n^ - 1 showing that it is not prime.
+    two factors for 2<sup>n</sup> - 1 showing that it is not prime.
 -   A *non-constructive* proof simply disproves the negation of the
     conjecture (thus proving the conjecture) but does not provide a
     procedure to verify any particular values. For example while we have
@@ -193,9 +191,9 @@ form 2<sup>n</sup> - 1 (where *n* is prime). Another interesting type
 of number that arises from Mersenne primes is known as a *perfect
 number*.
 
-    **Definition**
+> **Definition**
 
-    A *perfect number* *n* is a positive integer that equals the sum of all positive integers smaller than *n* that evenly divide *n*.
+> > A *perfect number* *n* is a positive integer that equals the sum of all positive integers smaller than *n* that evenly divide *n*.
 
 For example, 6 is a perfect number since the factors of 6 are 1, 2, 3 ⇒
 1 + 2 + 3 = 6. It is easy to show that 28 is also a perfect number.
