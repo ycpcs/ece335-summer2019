@@ -113,8 +113,7 @@ since *b* > 1 ⇒ *x* = 2<sup>b</sup> - 1 > 1. Thus we have proven that 1 < *x*
 < 2<sup>n</sup> - 1.
 
 Since *y* = 1 + \... it is obvious that *y* > 1. Finally since *y* > 1
-and we have already shown that *x* > 1 ⇒ *y* < *x*\**y* ⇒ *y* < 2<sup>n</sup>
-- 1 completing the proof.
+and we have already shown that *x* > 1 ⇒ *y* < *x*\**y* ⇒ *y* < 2<sup>n</sup> - 1 completing the proof.
 
 The important point illustrated by this proof is that we must be sure to
 prove **all** the parts of the proof and not **assume** that some of the
@@ -126,14 +125,12 @@ These two conjectures (the first of which is false and the second of
 which is true) lead to other interesting questions regarding prime
 numbers. For example, we know that simply because *n* is a prime does
 not guarantee that 2<sup>n</sup> - 1 is a prime, but is there a point after which
-*no* primes produce a prime of the form 2<sup>n</sup> - 1? A related question
-that is even more interesting is whether or not there are an *infinite*
-number of primes? Clearly when we start asking questions regarding
-infinite sets, we cannot exhaustively check every element of the set,
-i.e. we cannot check every possible number to determine if there are
-only a finite number of primes. Luckily deductive reasoning can come to
-the rescue in many of these cases to either prove or disprove
-conjectures about infinite sets.
+*no* primes produce a prime of the form 2<sup>n</sup> - 1?
+
+A related question that is even more interesting is whether or not there are an *infinite*
+number of primes? 
+
+Clearly when we start asking questions regarding infinite sets, we cannot exhaustively check every element of the set, i.e. we cannot check every possible number to determine if there are only a finite number of primes. Luckily deductive reasoning can come to the rescue in many of these cases to either prove or disprove conjectures about infinite sets.
 
 *Conjecture 3*
 
