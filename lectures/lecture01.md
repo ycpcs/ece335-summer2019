@@ -16,7 +16,7 @@ templates and see how they can be applied to many different areas of
 mathematics through the proper application of *formal logic*.
 
 Proofs
-=========
+======
 
 The foundation of proofs involves stating several **statements** (which
 are sentences that are *either* **true** or **false**) known as
@@ -32,7 +32,7 @@ Luckily there are several common proof techniques that can serve as a
 roadmap to successfully creating a valid proof.
 
 Examples of Proofs
-=====================
+==================
 
 **Prime Numbers**
 
