@@ -19,4 +19,4 @@ All information about the course will be posted here.
 
 * **May 22** - Welcome back!
 * **May 27 - NO CLASS, MEMORIAL DAY**
-* **June 3* - [Assignment 1](assign/assign01.html) due in class
+* **June 3** - [Assignment 1](assign/assign01.html) due in class
