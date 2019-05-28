@@ -13,4 +13,5 @@ Edition. Cambridge University Press,
 
 > Date | Lecture | Reading |
 > ---- | ------- | ------- |
-> May 22  | [Lecture 1: Introduction to Discrete Math](../lectures/lecture01.html) <br /> [Lecture 2: Deductive Reasoning and Logical Connectives](../lectures/lecture02.html) <br /> [Lecture 3: Truth Tables](../lectures/lecture03.html) | Intro. pg. 1-6 <br /> 1.1 pg. 8-13 <br /> 1.2 pg. 14-23 |
+> May 22  | [Lecture 1: Introduction to Discrete Math](../lectures/lecture01.html) <br /> [Lecture 2: Deductive Reasoning and Logical Connectives](../lectures/lecture02.html) | Intro. pg. 1-6 <br /> 1.1 pg. 8-13 |
+> May 29  | [Lecture 3: Truth Tables](../lectures/lecture03.html) | 1.2 pg. 14-23 |
