@@ -72,21 +72,19 @@ would be
 
 *Contrapositive*
 
-::: {.parsed-literal}
-**Definition**
+> **Definition**
 
-> The *contrapositive* of a conditional statement of the form *P* → *Q*
-> is given by ¬*Q* → ¬*P*. A statement is logically equivalent to its
-> contrapositive.
-:::
+> > The *contrapositive* of a conditional statement of the form *P* → *Q*
+> > is given by ¬*Q* → ¬*P*. A statement is logically equivalent to its
+> > contrapositive.
 
 **Example 4**
 
     If you don't turn in the exam, then you will get an F.
 
-*P*: \"You turned in the exam.\"
+*P*: "You turned in the exam."
 
-*Q*: \"You got an F.\"
+*Q*: "You got an F."
 
 Then symbolically ¬*P* → *Q*. The contrapositive is ¬*Q* → ¬¬*P* or
 equivalently ¬*Q* → *P* giving
@@ -97,13 +95,11 @@ equivalently ¬*Q* → *P* giving
 
 *Converse*
 
-::: {.parsed-literal}
-**Definition**
+> **Definition**
 
-> The *converse* of a conditional statement of the form *P* → *Q* is
-> given by *Q* → *P*. A statement is **not** logically equivalent to its
-> converse.
-:::
+> > The *converse* of a conditional statement of the form *P* → *Q* is
+> > given by *Q* → *P*. A statement is **not** logically equivalent to its
+> > converse.
 
 **Example 5**
 
@@ -129,11 +125,11 @@ Which of the following statements are logically equivalent:
 > (d) Either it is windy only if it is raining, or it is not sunny only
 >     if it is raining.
 
-*R*: \"It is raining.\"
+*R*: "It is raining."
 
-*W*: \"It is windy.\"
+*W*: "It is windy."
 
-*S*: \"The sun is shining.\"
+*S*: "The sun is shining."
 
 Then symbolically the original statement is *R* → (*W* ∧ ¬*S*)
 
@@ -165,9 +161,9 @@ Then symbolically the original statement is *R* → (*W* ∧ ¬*S*)
 >     ¬*R* → ¬(*W* ∧ ¬*S*)
 >
 >     which is the converse and thus not equivalent to the original.
->
-4. Biconditionals (if and only if)
-==================================
+
+Biconditionals (if and only if)
+===============================
 
 > **Biconditional Law**
 >
@@ -177,9 +173,9 @@ Then symbolically the original statement is *R* → (*W* ∧ ¬*S*)
 
     If John went to the store then we have eggs, and if he didn't go to the store then we don't.
 
-*S*: \"John went to the store.\"
+*S*: "John went to the store."
 
-*E*: \"We have eggs.\"
+*E*: "We have eggs."
 
 Then symbolically (*S* → *E*) ∧ (¬*S* → ¬*E*). Equivalently by
 contrapositive of the second clause (*S* → *E*) ∧ (*E* → *S*) or more
@@ -187,8 +183,8 @@ concisely *S* ↔ *E*. Thus in English
 
     John went to the store if and only if we have eggs.
 
-5. Conditional Arguments
-========================
+Conditional Arguments
+=====================
 
 **Example 8**
 
@@ -196,9 +192,9 @@ concisely *S* ↔ *E*. Thus in English
     Jones will go to jail.
     Therefore, Jones was convicted of murdering Smith.
 
-*C*: \"Jones was convicted of murdering Smith.\"
+*C*: "Jones was convicted of murdering Smith."
 
-*J*: \"Jones will go to jail.\"
+*J*: "Jones will go to jail."
 
 Symbolically
 
@@ -210,7 +206,7 @@ Symbolically
 
 Constructing a truth table
 
-> ![image](images/lecture04/example7.png){.align-center}
+> ![image](images/lecture04/example7.png)
 
 While the *fourth* row has true premises with a true conclusion, the
 *second* row also has true premises but a *false* conclusion. Thus this
@@ -224,13 +220,13 @@ different crime).
     The GNP and taxes are both going up.
     Therefore, the unemployment rate is not going up.
 
-*T*: \"The tax rate will go up.\"
+*T*: "The tax rate will go up."
 
-*U*: \"The unemployment rate will go up.\"
+*U*: "The unemployment rate will go up."
 
-*G*: \"The GNP will go up.\"
+*G*: "The GNP will go up."
 
-*R*: \"There will be a recession.\"
+*R*: "There will be a recession."
 
 Symbolically
 
@@ -244,7 +240,7 @@ Symbolically
 
 Constructing a truth table
 
-> ![image](images/lecture04/example8.png){.align-center}
+> ![image](images/lecture04/example8.png)
 
 Since the *tenth* row is the only one with all true premises and this
 row has a true conclusion, the argument is *valid*.
