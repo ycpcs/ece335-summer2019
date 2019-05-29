@@ -16,7 +16,7 @@ Constructing the truth table gives
 
 **Example 2**
 
-(S ∨ G) ∧ (¬S ∨ ¬G)
+    (S ∨ G) ∧ (¬S ∨ ¬G)
 
 Constructing the truth table gives
 
@@ -106,7 +106,7 @@ Using the equivalence laws to simplify gives
 
 **Example 4**
 
-(P ∧ Q) ∨ (P ∧ ¬Q)
+    (P ∧ Q) ∨ (P ∧ ¬Q)
 
 Using the equivalence laws to simplify gives
 
