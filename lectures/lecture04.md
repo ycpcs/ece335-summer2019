@@ -24,11 +24,11 @@ Conditionals (if-then)
 
 Equivalent statements would be
 
-    It is snowing implies that it is cold.
-    It is cold if it is snowing.
-    It is snowing only if it is cold.
-    It is snowing is sufficient for it to be cold.
-    It is cold is necessary for it to be snowing.
+> It is snowing implies that it is cold.
+> It is cold if it is snowing.
+> It is snowing only if it is cold.
+> It is snowing is sufficient for it to be cold.
+> It is cold is necessary for it to be snowing.
 
 Conditional Laws
 ================
@@ -43,9 +43,9 @@ Conditional Laws
 
     If you don't turn in the exam, then you will get an F.
 
-*P*: "You turned in the exam."
+> *P*: "You turned in the exam."
 
-*Q*: "You got an F."
+> *Q*: "You got an F."
 
 Then symbolically ¬*P* → *Q*. Equivalently, we have ¬(¬*P*) ∨ *Q* ⇒ *P*
 ∨ *Q* which would be
@@ -58,17 +58,17 @@ Consider the statement
 
     Either you show up for work, or you lose your job.
 
-*P*: "You show up for work."
+> *P*: "You show up for work."
 
-*Q*: "You keep your job."
+> *Q*: "You keep your job."
 
 Then symbolically *P* ∨ ¬*Q*. Equivalently, we have ¬*P* → ¬*Q* which
 would be
 
     If you don't show up for work, then you will lose your job.
 
-3. Contrapositive and Converse
-==============================
+Contrapositive and Converse
+===========================
 
 *Contrapositive*
 
@@ -82,9 +82,9 @@ would be
 
     If you don't turn in the exam, then you will get an F.
 
-*P*: "You turned in the exam."
+> *P*: "You turned in the exam."
 
-*Q*: "You got an F."
+> *Q*: "You got an F."
 
 Then symbolically ¬*P* → *Q*. The contrapositive is ¬*Q* → ¬¬*P* or
 equivalently ¬*Q* → *P* giving
@@ -120,47 +120,50 @@ equivalent.
 Which of the following statements are logically equivalent:
 
 > (a) It is windy and not sunny only if it is raining.
+>
 > (b) Rain is a sufficient condition for wind with no sunshine.
+>
 > (c) Rain is a necessary condition for wind with no sunshine.
+>
 > (d) Either it is windy only if it is raining, or it is not sunny only
->     if it is raining.
+> if it is raining.
 
-*R*: "It is raining."
+> *R*: "It is raining."
 
-*W*: "It is windy."
+> *W*: "It is windy."
 
-*S*: "The sun is shining."
+> *S*: "The sun is shining."
 
 Then symbolically the original statement is *R* → (*W* ∧ ¬*S*)
 
 > (a) (*W* ∧ ¬*S*) → *R*. By the contrapositive we have ¬*R* → ¬(*W* ∧
->     ¬*S*) which is the converse and thus not equivalent to the
->     original.
+> ¬*S*) which is the converse and thus not equivalent to the
+> original.
 >
-> (b) \"Sufficient\" means implies thus giving *R* → (*W* ∧ ¬*S*) which
->     is equivalent to the original.
+> (b) "Sufficient" means implies thus giving *R* → (*W* ∧ ¬*S*) which
+> is equivalent to the original.
 >
-> (c) \"Necessary\" means reverse implication thus giving (*W* ∧ ¬*S*) →
->     ¬*R*. By the contrapositive we have ¬*R* → ¬(*W* ∧ ¬*S*) which is
->     the converse and thus not equivalent to the original.
+> (c) "Necessary" means reverse implication thus giving (*W* ∧ ¬*S*) →
+> ¬*R*. By the contrapositive we have ¬*R* → ¬(*W* ∧ ¬*S*) which is
+> the converse and thus not equivalent to the original.
 >
 > (d) (*W* → *R*) ∨ (¬*S* → *R*). Equivalently
->
->     (¬*W* ∨ *R*) ∨ (¬¬*S* ∨ *R*)
->
->     (¬*W* ∨ *R*) ∨ (*S* ∨ *R*)
->
->     (*R* ∨ ¬*W*) ∨ (*R* ∨ *S*)
->
->     (*R* ∨ *R*) ∨ (¬*W* ∨ *S*)
->
->     *R* ∨ (¬*W* ∨ *S*)
->
->     ¬*R* → (¬*W* ∨ *S*)
->
->     ¬*R* → ¬(*W* ∧ ¬*S*)
->
->     which is the converse and thus not equivalent to the original.
+> >
+> > (¬*W* ∨ *R*) ∨ (¬¬*S* ∨ *R*)
+> >
+> > (¬*W* ∨ *R*) ∨ (*S* ∨ *R*)
+> >
+> > (*R* ∨ ¬*W*) ∨ (*R* ∨ *S*)
+> >
+> > (*R* ∨ *R*) ∨ (¬*W* ∨ *S*)
+> >
+> > *R* ∨ (¬*W* ∨ *S*)
+> >
+> > ¬*R* → (¬*W* ∨ *S*)
+> >
+> > ¬*R* → ¬(*W* ∧ ¬*S*)
+> >
+> > which is the converse and thus not equivalent to the original.
 
 Biconditionals (if and only if)
 ===============================
@@ -173,9 +176,9 @@ Biconditionals (if and only if)
 
     If John went to the store then we have eggs, and if he didn't go to the store then we don't.
 
-*S*: "John went to the store."
+> *S*: "John went to the store."
 
-*E*: "We have eggs."
+> *E*: "We have eggs."
 
 Then symbolically (*S* → *E*) ∧ (¬*S* → ¬*E*). Equivalently by
 contrapositive of the second clause (*S* → *E*) ∧ (*E* → *S*) or more
@@ -192,9 +195,9 @@ Conditional Arguments
     Jones will go to jail.
     Therefore, Jones was convicted of murdering Smith.
 
-*C*: "Jones was convicted of murdering Smith."
+> *C*: "Jones was convicted of murdering Smith."
 
-*J*: "Jones will go to jail."
+> *J*: "Jones will go to jail."
 
 Symbolically
 
@@ -220,13 +223,13 @@ different crime).
     The GNP and taxes are both going up.
     Therefore, the unemployment rate is not going up.
 
-*T*: "The tax rate will go up."
+> *T*: "The tax rate will go up."
 
-*U*: "The unemployment rate will go up."
+> *U*: "The unemployment rate will go up."
 
-*G*: "The GNP will go up."
+> *G*: "The GNP will go up."
 
-*R*: "There will be a recession."
+> *R*: "There will be a recession."
 
 Symbolically
 
