@@ -128,11 +128,11 @@ Which of the following statements are logically equivalent:
 > (d) Either it is windy only if it is raining, or it is not sunny only
 > if it is raining.
 
-> *R*: "It is raining."
+> > *R*: "It is raining."
 
-> *W*: "It is windy."
+> > *W*: "It is windy."
 
-> *S*: "The sun is shining."
+> > *S*: "The sun is shining."
 
 Then symbolically the original statement is *R* → (*W* ∧ ¬*S*)
 
