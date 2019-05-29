@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Lecture 6: Equivalences"
+title: "Lecture 6: Equivalences Involving Quantifiers"
 ---
 
 Quantifier Equivalents
