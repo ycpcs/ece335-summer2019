@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Lecture 3: Truth Tables"
+title: "Lecture 4: The Conditional and Biconditional Connectives"
 ---
 
 Conditionals (if-then)
