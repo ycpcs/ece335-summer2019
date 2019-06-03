@@ -18,3 +18,5 @@ Edition. Cambridge University Press,
 > May 29  | [Lecture 3: Truth Tables](../lectures/lecture03.html)  <br /> [Lecture 4: The Conditional and Biconditional Connectives](../lectures/lecture04.html) | 1.2 pg. 14-23 <br /> 1.5 pg. 43-53 |
 > June 3  | [Lecture 5: Quantifiers](../lectures/lecture05.html) <br /> [Assignment 1](../assign/assign01.html) **Due 6/3** | 2.1 pg. 55-63 |
 > June 5  | [Lecture 6: Equivalencies Involving Quantifiers](../lectures/lecture06.html)| 2.2 pg. 64-72 |
+> June 10  | [Assignment 1](../assign/assign01.html) **Due 6/10** |  |
+> June 12  | **EXAM 1** | |
