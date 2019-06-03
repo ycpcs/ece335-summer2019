@@ -83,7 +83,8 @@ Multiple Quantifiers
 
 **Example 5**
 
-    If anyone in the the dorm has a friend who has the measles, then everyone in the dorm will have to be quarantined.
+    If anyone in the the dorm has a friend who has the measles,
+    then everyone in the dorm will have to be quarantined.
 
 > *D(x)*: "*x* lives in the dorm."
 
@@ -136,4 +137,5 @@ Literal translation for the second clause gives
 
 Combining the two with the conditional and simplifying gives
 
-    If anyone that lives in the dorm has the measles, then everyone that has a friend in the dorm will have to be quarantined.
+    If anyone that lives in the dorm has the measles, 
+    then everyone that has a friend in the dorm will have to be quarantined.
