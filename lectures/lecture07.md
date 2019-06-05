@@ -70,7 +70,7 @@ Set Definition
 
 Since we can write 9 = 3\*3 ⇒ 9 is *not* prime and thus
 
-    9 ∉ *P*
+    9 ∉ P
 
 **Example 5**
 
@@ -97,7 +97,7 @@ Variables and Truth Sets
 
     Identify the variables in the statement
 
-    y ∈ {x | x<sup>2</sup> < 9}
+    y ∈ {x | x² < 9}
 
 Note that this statement could be rewritten as
 
@@ -150,7 +150,7 @@ Universe of Discourse
 
     Determine the truth set for the statement
 
-    P(x) = {x ∈ ℝ | x<sup>2</sup> < 9}
+    P(x) = {x ∈ ℝ | x² < 9}
     
 Since the universe of discourse is the real numbers, the values for
 which this statement are true are any number greater than -3 and less
@@ -162,7 +162,7 @@ than 3 giving
 
     Determine the truth set for the statement
 
-    P(x) = {x ∈ ℕ | x<sup>2</sup> < 9}
+    P(x) = {x ∈ ℕ | x² < 9}
 
 Now since the universe of discourse is restricted to only the natural
 numbers, the values for which this statement are true are any *integer*
