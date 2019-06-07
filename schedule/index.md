@@ -18,7 +18,7 @@ Edition. Cambridge University Press,
 > May 29  | [Lecture 3: Truth Tables](../lectures/lecture03.html)  <br /> [Lecture 4: The Conditional and Biconditional Connectives](../lectures/lecture04.html) | 1.2 pg. 14-23 <br /> 1.5 pg. 43-53 |
 > June 3  | [Lecture 5: Quantifiers](../lectures/lecture05.html) <br /> [Assignment 1](../assign/assign01.html) **Due 6/3** | 2.1 pg. 55-63 |
 > June 5  | [Lecture 6: Equivalencies Involving Quantifiers](../lectures/lecture06.html)| 2.2 pg. 64-72 |
-> June 10 | [Lecture 7: Variables and Sets](../lectures/lecture07.html) <br /> [Lecture 8: Operations on Sets](../lectures/lecture08.html) <br /> [Assignment 1](../assign/assign01.html) **Due 6/10** | 1.3 pg. 26-33 <br /> 1.4 pg. 34-41 |
+> June 10 | [Lecture 7: Variables and Sets](../lectures/lecture07.html) <br /> [Lecture 8: Operations on Sets](../lectures/lecture08.html) <br /> [Assignment 2](../assign/assign02.html) **Due 6/10** | 1.3 pg. 26-33 <br /> 1.4 pg. 34-41 |
 > June 12 | **EXAM 1** | |
 > June 17 | [Lecture 8: Operations on Sets](../lectures/lecture08.html) <br /> [Lecture 9: More Operations on Sets](../lectures/lecture09.html) | 1.4 pg. 34-41 <br /> 2.3 pg. 73-81 |
 > June 19 | [Lecture 9: More Operations on Sets](../lectures/lecture09.html) | 2.3 pg. 73-81 |
