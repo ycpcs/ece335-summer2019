@@ -72,7 +72,7 @@ Difference
 > > The *difference* of two sets *A* and *B* denoted *A* \\ *B* is defined
 > > as the set
 
-> > *A* \\ *B* = {*x* \| *x* ∈ *A* **and** *x* ∉ *B*}
+> > *A* \ *B* = {*x* \| *x* ∈ *A* **and** *x* ∉ *B*}
 
 In otherwords, for an element to be in the difference it must be in set
 *A* but **not** in set *B*. Note that the difference of two sets is a
@@ -82,13 +82,13 @@ In otherwords, for an element to be in the difference it must be in set
 
     A = {2, 3, 5, 7, 11} B = {1, 3, 5, 7, 9}
 
-    Determine *A* \\ *B*.
+    Determine A \ B.
 
 We determine the difference by removing any elements from *A* that are
 common to *A* and *B*. Note that if an element is in *B* but not in *A*
 that it does not appear in the difference. Thus
 
-    A \\ B = {2, 11}
+    A \ B = {2, 11}
 
 Symmetric Difference
 ====================
@@ -124,20 +124,19 @@ Venn Diagrams
 
 The Venn diagrams for the basic set operations are shown below
 
-> ![image](images/lecture08/basicVenn.png){.align-center}
+> ![image](images/lecture08/basicVenn.png)
 
 **Example 5**
 
-    Construct a Venn Diagram for A ∪ (B \\ C).
+    Construct a Venn Diagram for A ∪ (B \ C).
 
-Drawing three overlapping circles we first shade in the area (*B* \\
-*C*)
+Drawing three overlapping circles we first shade in the area (*B* \ *C*)
 
-> ![image](images/lecture08/example5a.png){.align-center}
+> ![image](images/lecture08/example5a.png)
 
 Next we shade this area with all of *A* (for union) giving
 
-> ![image](images/lecture08/example5b.png){.align-center}
+> ![image](images/lecture08/example5b.png)
 
 Note that Venn diagrams are a convenient pictorial way to visualize set
 relationships for a small number of sets (usually three or less) but do
@@ -150,19 +149,19 @@ not constitute a proof of a set equivalency.
 Drawing three overlapping circles we first shade in the area (*A* ∪ *B*)
 in red
 
-> ![image](images/lecture08/example6a.png){.align-center}
+> ![image](images/lecture08/example6a.png)
 
 Next we shade the area (*A* ∪ *C*) in blue
 
-> ![image](images/lecture08/example6b.png){.align-center}
+> ![image](images/lecture08/example6b.png)
 
 Overlapping the two areas, we see the intersection in purple
 
-> ![image](images/lecture08/example6c.png){.align-center}
+> ![image](images/lecture08/example6c.png)
 
 For the final Venn diagram for (*A* ∪ *B*) ∩ (*A* ∪ *C*).
 
-> ![image](images/lecture08/example6d.png){.align-center}
+> ![image](images/lecture08/example6d.png)
 
 Compare this area to the area for *A* ∪ (*B* ∩ *C*)?
 
@@ -251,7 +250,7 @@ Thus set *union* distributes over set *intersection*.
 
 **Example 9**
 
-    Show A \\ (A ∩ B) = A \\ B
+    Show A \ (A ∩ B) = A \ B
 
 *A* ∩ *B* means
 
@@ -275,7 +274,7 @@ Taking the difference with *A* and applying logical equivalences gives
 
 Giving
 
-    *A* \\ *B*
+    A \ B
 
 **Theorem**
 

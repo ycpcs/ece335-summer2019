@@ -60,7 +60,6 @@ Set Definition
 > > an *elementhood test*, that describes which elements are in the set
 > > (particularly if the set contains an infinite number of objects). We
 > > denote the set by *A* = {*x* \| \"rule describing *x*\"}
-:::
 
 **Example 4**
 
@@ -76,9 +75,9 @@ Since we can write 9 = 3\*3 ⇒ 9 is *not* prime and thus
 
     Give an elementhood test for the set
 
-    S = {1, 4, 9, 16, 25, \...}
+    S = {1, 4, 9, 16, 25, ...}
 
-Note here that the *ellipsis* (i.e. \"\...\") represents an infinite
+Note here that the *ellipsis* (i.e. "...") represents an infinite
 number of elements and thus we must deduce the pattern from the existing
 examples. Obviously the elements are 1 = 1<sup>2</sup>, 4 = 2<sup>2</sup>, 9 = 3<sup>2</sup>, 16 = 4<sup>2</sup>, 25 = 5<sup>2</sup>, etc. So the set contains elements that are the squares of the integers giving
 
