@@ -18,4 +18,7 @@ Edition. Cambridge University Press,
 > June 3  | [Lecture 5: Quantifiers](../lectures/lecture05.html) | 2.1 pg. 55-63 |
 > June 5  | [Lecture 6: Equivalencies Involving Quantifiers](../lectures/lecture06.html)| 2.2 pg. 64-72 |
 > June 10 | [Lecture 7: Variables and Sets](../lectures/lecture07.html) <br /> [Lecture 8: Operations on Sets](../lectures/lecture08.html) | 1.3 pg. 26-33 <br /> 1.4 pg. 34-41 |
+> June 17 | [Lecture 8: Operations on Sets](../lectures/lecture08.html) <br /> [Lecture 9: More Operations on Sets](../lectures/lecture09.html) | 1.4 pg. 34-41 <br /> 2.3 pg. 73-81 |
+> June 19 | [Lecture 9: More Operations on Sets](../lectures/lecture09.html) <br /> [Lecture 10: Proof Strategies](../lectures/lecture10.html) | 2.3 pg. 73-81 <br /> 3.1 pg. 84-93 |
+
 

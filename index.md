@@ -22,3 +22,4 @@ All information about the course will be posted here.
 * **June 3** - [Assignment 1](assign/assign01.html) due in class
 * **June 10** - [Assignment 2](assign/assign02.html) due in class
 * **June 12 - EXAM 1**
+* **June 24** - [Assignment 3](assign/assign03.html) due in class

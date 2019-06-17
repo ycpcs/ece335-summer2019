@@ -45,7 +45,7 @@ concept of *prime numbers*.
 
 
 For example, the value 7 is *prime* but the value 9 is *not prime*
-(since it can be written as 3\*3).
+(since it can be written as 3*3).
 
 Consider the values computed by (2<sup>n</sup> - 1) where *n* = 1, 2, 3, \...
 

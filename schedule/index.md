@@ -21,4 +21,5 @@ Edition. Cambridge University Press,
 > June 10 | [Lecture 7: Variables and Sets](../lectures/lecture07.html) <br /> [Lecture 8: Operations on Sets](../lectures/lecture08.html) <br /> [Assignment 2](../assign/assign02.html) **Due 6/10** | 1.3 pg. 26-33 <br /> 1.4 pg. 34-41 |
 > June 12 | **EXAM 1** | |
 > June 17 | [Lecture 8: Operations on Sets](../lectures/lecture08.html) <br /> [Lecture 9: More Operations on Sets](../lectures/lecture09.html) | 1.4 pg. 34-41 <br /> 2.3 pg. 73-81 |
-> June 19 | [Lecture 9: More Operations on Sets](../lectures/lecture09.html) | 2.3 pg. 73-81 |
+> June 19 | [Lecture 9: More Operations on Sets](../lectures/lecture09.html) <br /> [Lecture 10: Proof Strategies](../lectures/lecture10.html) | 2.3 pg. 73-81 <br /> 3.1 pg. 84-93 |
+> June 24 | [Assignment 3](../assign/assign03.html) **Due 6/24** | |
