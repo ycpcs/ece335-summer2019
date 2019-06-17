@@ -23,7 +23,7 @@ Book Questions from *How To Prove It - 2nd ed.*
 > 
 > 1.3.8 - Consider in the statements which are the bound and which are the free variables.
 > 
-> 1.4.1 Refer to the definitions for |union|, |intersect|, and \\. Note that subsets must contain *all* the elements of the superset.
+> 1.4.1 Refer to the definitions for ∪, ∩, and \. Note that subsets must contain *all* the elements of the superset.
 > 
 > 1.4.5 Use the identies from problem 1.4.4 as a guideline for the result, i.e. use logical equivalences to manipulate the left hand side into the right. Also construct Venn diagrams to help visualize where the elements live with respect to the sets.
 > 
