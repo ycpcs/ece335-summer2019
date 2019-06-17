@@ -145,6 +145,7 @@ which is the goal we were trying to show. Thus the formal proof would be
 > > we can conclude that *a*<sup>2</sup> \> *ab*, and similarly
 > > multiplying by *b* we get *ab* \> *b*<sup>2</sup>.
 > > 
+
 > Therefore *a*<sup>2</sup> \> *ab* \> *b*<sup>2</sup>, so *a*<sup>2</sup> \> *b*<sup>2</sup>.
 > Thus, if *a* \< *b* \< 0 then *a*<sup>2</sup> \> *b*<sup>2</sup>.
 
@@ -223,4 +224,5 @@ which is the goal we needed to show. Thus the formal proof would be
 > > Then we can multiply both sides of the inequality *a* \> *b* 
 > > by the positive value *c* to conclude that *ac* \> *bc*.
 > > 
+
 > Therefore, by the contrapositive, if *ac* ≤ *bc* then *c* ≤ 0.
