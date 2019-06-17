@@ -6,73 +6,73 @@ title: "Lecture 8: Operations on Sets"
 Intersection
 ============
 
-> **Definition**
+### **Definition**
 
-> > The *intersection* of two sets *A* and *B* denoted *A* ∩ *B* is defined
-> > as the set
+> The *intersection* of two sets *A* and *B* denoted *A* ∩ *B* is defined
+> as the set
 
-> > *A* ∩ *B* = {*x* \| *x* ∈ *A* **and** *x* ∈ *B*}
+> *A* ∩ *B* = {*x* \| *x* ∈ *A* ∧ *x* ∈ *B*}
 
 In otherwords, for an element to be in the intersection it must be in
 *both* sets. Note that the intersection of two sets is a *set*.
 
 **Example 1**
 
-    A = {2, 3, 5, 7, 11} B = {1, 3, 5, 7, 9}
+> *A* = {2, 3, 5, 7, 11} *B* = {1, 3, 5, 7, 9}
 
-    Determine A ∩ B.
+> Determine *A* ∩ *B*.
 
 We determine the intersection by finding elements that both sets have in
 common. Thus
 
-    A ∩ B = {3, 5, 7}
+> *A* ∩ *B* = {3, 5, 7}
 
 *Disjoint Sets*
 
-> **Definition**
+### **Definition**
 
-> > Two sets *A* and *B* are said to be *disjoint* if there are no elements
-> > in their intersection, i.e. the *intersection* of *A* and *B* is the
-> > *empty set*.
-> > 
-> > *A* ∩ *B* = ∅
+> Two sets *A* and *B* are said to be *disjoint* if there are no elements
+> in their intersection, i.e. the *intersection* of *A* and *B* is the
+> *empty set*.
+>  
+> *A* ∩ *B* = ∅
 
-In otherwords, disjoint sets have no common elements.
+In other words, disjoint sets have no common elements.
 
 Union
 =====
 
-> **Definition**
+### **Definition**
 
-> > The *union* of two sets *A* and *B* denoted *A* ∪ *B* is defined as the
-> > set
+> The *union* of two sets *A* and *B* denoted *A* ∪ *B* is defined as the
+> set
 
-> > *A* ∪ *B* = {*x* \| *x* ∈ *A* **or** *x* ∈ *B*}
+> *A* ∪ *B* = {*x* \| *x* ∈ *A* ∨ *x* ∈ *B*}
 
 In otherwords, for an element to be in the union it must be in *either*
 set. Note that the union of two sets is a *set*.
 
 **Example 2**
 
-    A = {2, 3, 5, 7, 11} B = {1, 3, 5, 7, 9}
+> *A* = {2, 3, 5, 7, 11} *B* = {1, 3, 5, 7, 9}
 
-    Determine A ∪ B.
+> Determine *A* ∪ *B*.
 
 We determine the union by combining all the elements from both sets.
 Note that if an element is in *both* sets, that it only appears *once*
 in the union. Thus
 
-    A ∪ B = {1, 2, 3, 5, 7, 9, 11}
+> *A* ∪ *B* = {1, 2, 3, 5, 7, 9, 11}
 
 Difference
 ==========
 
-> **Definition**
+### **Definition**
 
-> > The *difference* of two sets *A* and *B* denoted *A* \\ *B* is defined
-> > as the set
+> The *difference* of two sets *A* and *B* denoted *A* \\ *B* is defined
+> as the set
 
-> > *A* \ *B* = {*x* \| *x* ∈ *A* **and** *x* ∉ *B*}
+> *A* \\ *B* = {*x* \| *x* ∈ *A* **and** *x* ∉ *B*}
 
 In otherwords, for an element to be in the difference it must be in set
 *A* but **not** in set *B*. Note that the difference of two sets is a
@@ -80,47 +80,47 @@ In otherwords, for an element to be in the difference it must be in set
 
 **Example 3**
 
-    A = {2, 3, 5, 7, 11} B = {1, 3, 5, 7, 9}
+> *A* = {2, 3, 5, 7, 11} *B* = {1, 3, 5, 7, 9}
 
-    Determine A \ B.
+> Determine *A* \\ *B*.
 
 We determine the difference by removing any elements from *A* that are
 common to *A* and *B*. Note that if an element is in *B* but not in *A*
 that it does not appear in the difference. Thus
 
-    A \ B = {2, 11}
+> *A* \\ *B* = {2, 11}
 
 Symmetric Difference
 ====================
 
-> **Definition**
+### **Definition**
 
-> > The *symmetric difference* of two sets *A* and *B* denoted *A* ∆ *B* is
-> > defined as the set
+> The *symmetric difference* of two sets *A* and *B* denoted *A* ∆ *B* is
+> defined as the set
 
-> > *A* ∆ *B* = (*A* \\ *B*) ∪ (*B* \\ *A*) = (*A* ∪ *B*) \\ (*A* ∩ *B*)
+> *A* ∆ *B* = (*A* \\ *B*) ∪ (*B* \\ *A*) = (*A* ∪ *B*) \\ (*A* ∩ *B*)
 
 In other words, it is the set of elements that are in *either* *A*
-**or** *B*, *but* **not** *both*.
+**or** *B*, *but* **not** *both* (i.e. *exclusive* **or**).
 
 **Example 4**
 
-    A = {2, 3, 5, 7, 11} B = {1, 3, 5, 7, 9}
+> *A* = {2, 3, 5, 7, 11} *B* = {1, 3, 5, 7, 9}
 
-    Determine A ∆ B.
+> Determine *A* ∆ *B*.
 
 We determine the symmetric difference by removing the elements in the
 intersection from the union. Thus
 
-    A ∆ B = {1, 2, 9, 11}
+> *A* ∆ *B* = {1, 2, 9, 11}
 
 Venn Diagrams
 =============
 
-> **Definition**
+### **Definition**
 
-> > A *Venn diagram* is a visual representation of sets where circles denote
-> > the sets and areas of overlap indicate common elements.
+> A *Venn diagram* is a visual representation of sets where circles denote
+> the sets and areas of overlap indicate common elements.
 
 The Venn diagrams for the basic set operations are shown below
 
@@ -128,7 +128,7 @@ The Venn diagrams for the basic set operations are shown below
 
 **Example 5**
 
-    Construct a Venn Diagram for A ∪ (B \ C).
+> Construct a Venn Diagram for *A* ∪ (*B* \ *C*).
 
 Drawing three overlapping circles we first shade in the area (*B* \ *C*)
 
@@ -144,7 +144,7 @@ not constitute a proof of a set equivalency.
 
 **Example 6**
 
-    Construct a Venn Diagram for (A ∪ B) ∩ (A ∪ C).
+> Construct a Venn Diagram for (*A* ∪ *B*) ∩ (*A* ∪ *C*).
 
 Drawing three overlapping circles we first shade in the area (*A* ∪ *B*)
 in red
@@ -168,12 +168,12 @@ Compare this area to the area for *A* ∪ (*B* ∩ *C*)?
 Subsets
 =======
 
-> **Definition**
+### **Definition**
 
-> > A set *A* is a *subset* of a set *B*, denoted *A* ⊆ *B*, if *all* the
-> > elements of *A* are also in *B*, i.e.
-> > 
-> > *x* ∈ *A* → *x* ∈ *B*
+> A set *A* is a *subset* of a set *B*, denoted *A* ⊆ *B*, if *all* the
+> elements of *A* are also in *B*, i.e.
+ 
+> *x* ∈ *A* → *x* ∈ *B*
 
 It should be clear from the definition that
 
@@ -181,23 +181,23 @@ It should be clear from the definition that
 
 **Example 7**
 
-    A = {x | x is a state in the USA} B = {y | y birthplace of
-    a US president}
+> *A* = {*x* | *x* is a state in the USA} *B* = {*y* | *y* birthplace of
+> a US president}
 
-    Is A ⊆ B? Is B ⊆ A?
+> Is *A* ⊆ *B*? Is *B* ⊆ *A*?
 
 To answer the first question we must determine if all states of the USA
 have had a president born in them. To this point, no presidents have
 been born in Alaska, so
 
-    A ⊈ B
+> *A* ⊈ *B*
 
 For the second question we must determine if each president was born in
 a US state. Since natural citizenship is a requirement for being
 president (and none have been born in US territories), all the
 presidents were born in a US state. Thus
 
-    B ⊆ A
+> *B* ⊆ *A*
 
 (Actually many of the first presidents were born before the USA was
 formed so technically not all the presidents were born in US states).
@@ -225,7 +225,7 @@ relationships for sets.
 
 **Example 8**
 
-    Show (A ∪ B) ∩ (A ∪ C) = A ∪ (B ∩ C)
+> Show (*A* ∪ *B*) ∩ (*A* ∪ *C*) = *A* ∪ (*B* ∩ *C*)
 
 We begin by writing the logical form of (*A* ∪ *B*) as
 
@@ -244,13 +244,13 @@ law gives
 
 Which in set notation is
 
-    A ∪ (B ∩ C)
+> *A* ∪ (*B* ∩ *C*)
 
 Thus set *union* distributes over set *intersection*.
 
 **Example 9**
 
-    Show A \ (A ∩ B) = A \ B
+> Show *A* \\ (*A* ∩ *B*) = *A* \\ *B*
 
 *A* ∩ *B* means
 
@@ -274,7 +274,7 @@ Taking the difference with *A* and applying logical equivalences gives
 
 Giving
 
-    A \ B
+    *A* \\ *B*
 
 **Theorem**
 
@@ -292,5 +292,5 @@ Giving
 >
 > ¬*Q*
 >
-> Which had the valid conclusion *P*. Thus we deduce that *x* ∈ *A* ⇒
+> Which had the valid conclusion *P*. Thus we deduce that *x* ∈ *A*, giving
 > (*A* ∪ *B*) \\ *B* ⊆ *A*.
