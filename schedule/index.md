@@ -29,8 +29,8 @@ Edition. Cambridge University Press,
 > July 8  | [Lecture 12: Proofs Involving Quantifiers](../lectures/lecture12.html) | 3.3 pg. 108-121 |
 > July 10 | [Lecture 13: Proofs Involving Conjunctions and Biconditionals](../lectures/lecture13.html) <br /> [Lecture 14: Proofs Involving Disjunctions](../lectures/lecture14.html) | 3.4 pg. 124-133 <br /> 3.5 pg. 136-143 |
 > July 15 | [Lecture 14: Proofs Involving Disjunctions](../lectures/lecture14.html) <br /> [Lecture 15: Existence and Uniqueness Proofs](../lectures/lecture15.html) | 3.5 pg. 136-143 <br /> 3.6 pg. 146-153 |
-> July 17 | [Lecture 16: Proof by Mathematical Induction](../lectures/lecture16.html) | 6.1 pg. 260-265 |
-> July 22 | **EXAM 2** | |
+> July 17 | **EXAM 2** | |
+> July 22 | [Lecture 16: Proof by Mathematical Induction](../lectures/lecture16.html) | 6.1 pg. 260-265 |
 > July 24 | [Lecture 16: Proof by Mathematical Induction](../lectures/lecture16.html) | 6.1 pg. 260-265 |
 > July 29 | [Lecture 17: Recursion](../lectures/lecture17.html) | 6.3 pg. 279-285 |
 > July 31 | [Lecture 17: Recursion](../lectures/lecture17.html) <br /> [Lecture 18: Relations](../lectures/lecture18.html) | 6.3 pg. 279-285 <br /> 4.1-4.3 pg. 163-186 |

@@ -24,6 +24,6 @@ All information about the course will be posted here.
 * **June 12 - EXAM 1**
 * **June 24** - [Assignment 3](assign/assign03.html) due in class
 * **July 1,3 - NO CLASS, 4th of July Break**
-* **July 22 - EXAM 2**
+* **July 17 - EXAM 2**
 * **Aug 12 - EXAM 3**
 * **Aug 14 - FINAL EXAM**
