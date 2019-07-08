@@ -277,11 +277,11 @@ First we identify the original givens and goals
 
 > *Givens*
 >
-> > *F* is a family of sets
+> > None
 >
 > *Goal*
 >
-> > *A* ∈ *F* → ∩*F* ⊆ *A*
+> > (*F* is a family of sets ∧ *A* ∈ *F*) → ∩*F* ⊆ *A*
 
 Applying the conditional proof technique gives
 
