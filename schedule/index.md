@@ -27,8 +27,8 @@ Edition. Cambridge University Press,
 > July 1  | **NO CLASS - 4th of July Break** | |
 > July 3  | **NO CLASS - 4th of July Break** | |
 > July 8  | [Lecture 12: Proofs Involving Quantifiers](../lectures/lecture12.html) <br /> [Lecture 12 Practice Problem](../handouts/lecture12/lecture12-handout.pdf) [Lecture 12 Practice Problem Solution](../handouts/lecture12/lecture12-handoutSol.pdf) | 3.3 pg. 108-121 <br /> 3.4 pg. 124-133 |
-> July 10 | [Lecture 13: Proofs Involving Conjunctions and Biconditionals](../lectures/lecture13.html) <br /> [Lecture 14: Proofs Involving Disjunctions](../lectures/lecture14.html) <br /> [Assignment 4](../assign/assign04.html) **Due 7/10** <br /> [Lecture 13 Practice Problem](../handouts/lecture13/lecture13-handout.pdf) [Lecture 13 Practice Problem Solution](../handouts/lecture13/lecture13-handoutSol.pdf) | 3.4 pg. 124-133 <br /> 3.5 pg. 136-143 |
-> July 15 | [Lecture 14: Proofs Involving Disjunctions](../lectures/lecture14.html) <br /> [Lecture 15: Existence and Uniqueness Proofs](../lectures/lecture15.html) | 3.5 pg. 136-143 <br /> 3.6 pg. 146-153 |
+> July 10 | [Lecture 13: Proofs Involving Conjunctions and Biconditionals](../lectures/lecture13.html) <br /> [Assignment 4](../assign/assign04.html) **Due 7/10** <br /> [Lecture 13 Practice Problem](../handouts/lecture13/lecture13-handout.pdf) [Lecture 13 Practice Problem Solution](../handouts/lecture13/lecture13-handoutSol.pdf) | 3.4 pg. 124-133 <br /> 3.5 pg. 136-143 |
+> July 15 | [Lecture 14: Proofs Involving Disjunctions](../lectures/lecture14.html) <br /> [Lecture 15: Existence and Uniqueness Proofs](../lectures/lecture15.html) <br /> [Lecture 14 Practice Problem](../handouts/lecture14/lecture14-handout.pdf) [Lecture 14 Practice Problem Solution](../handouts/lecture14/lecture14-handoutSol.pdf) | 3.5 pg. 136-143 <br /> 3.6 pg. 146-153 |
 > July 17 | **EXAM 2** <br /> [Assignment 5](../assign/assign05.html) **Due 7/17** | |
 > July 22 | [Lecture 16: Proof by Mathematical Induction](../lectures/lecture16.html) | 6.1 pg. 260-265 |
 > July 24 | [Lecture 16: Proof by Mathematical Induction](../lectures/lecture16.html) | 6.1 pg. 260-265 |
