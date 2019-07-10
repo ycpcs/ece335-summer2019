@@ -22,7 +22,7 @@ Edition. Cambridge University Press,
 > June 12 | **EXAM 1** | |
 > June 17 | [Lecture 8: Operations on Sets](../lectures/lecture08.html) <br /> [Lecture 9: More Operations on Sets](../lectures/lecture09.html) | 1.4 pg. 34-41 <br /> 2.3 pg. 73-81 |
 > June 19 | [Lecture 9: More Operations on Sets](../lectures/lecture09.html) | 2.3 pg. 73-81 |
-> June 24 | [Lecture 10: Proof Strategies](../lectures/lecture10.html) <br /> [Lecture 11: Proofs Involving Negations and Conditionals](../lectures/lecture11.html) <br /> [Assignment 3](../assign/assign03.html) **Due 6/24** | 3.1 pg. 84-93 <br /> 3.2 pg. 95-106 |
+> June 24 | [Lecture 10: Proof Strategies](../lectures/lecture10.html) <br /> [Lecture 11: Proofs Involving Negations and Conditionals](../lectures/lecture11.html) <br /> [Assignment 3](../assign/assign03.html) **Due 6/24** <br /> [Lecture 10 Practice Problem](../handouts/lecture10/lecture10-handout.pdf) [Lecture 10 Practice Problem Solution](../handouts/lecture10/lecture10-handoutSol.pdf) | 3.1 pg. 84-93 <br /> 3.2 pg. 95-106 |
 > June 26 | [Lecture 11: Proofs Involving Negations and Conditionals](../lectures/lecture11.html) | 3.2 pg. 95-106 |
 > July 1  | **NO CLASS - 4th of July Break** | |
 > July 3  | **NO CLASS - 4th of July Break** | |
