@@ -25,9 +25,9 @@ Edition. Cambridge University Press,
 > July 8  | [Lecture 12: Proofs Involving Quantifiers](../lectures/lecture12.html) <br /> [Lecture 12 Practice Problem](../handouts/lecture12/lecture12-handout.pdf) [Lecture 12 Practice Problem Solution](../handouts/lecture12/lecture12-handoutSol.pdf) | 3.3 pg. 108-121 <br /> 3.4 pg. 124-133 |
 > July 10 | [Lecture 13: Proofs Involving Conjunctions and Biconditionals](../lectures/lecture13.html) <br /> [Lecture 13 Practice Problem](../handouts/lecture13/lecture13-handout.pdf) [Lecture 13 Practice Problem Solution](../handouts/lecture13/lecture13-handoutSol.pdf) | 3.4 pg. 124-133 <br /> 3.5 pg. 136-143 |
 > July 15 | [Lecture 14: Proofs Involving Disjunctions](../lectures/lecture14.html) <br /> [Lecture 15: Existence and Uniqueness Proofs](../lectures/lecture15.html) <br /> [Lecture 14 Practice Problem](../handouts/lecture14/lecture14-handout.pdf) [Lecture 14 Practice Problem Solution](../handouts/lecture14/lecture14-handoutSol.pdf) | 3.5 pg. 136-143 <br /> 3.6 pg. 146-153 |
-> July 22 | [Lecture 16: Proof by Mathematical Induction](../lectures/lecture16.html) | 6.1 pg. 260-265 |
-> July 24 | [Lecture 16: Proof by Mathematical Induction](../lectures/lecture16.html) | 6.1 pg. 260-265 |
+> July 22 | [Lecture 16: Proof by Mathematical Induction](../lectures/lecture16.html) <br /> [Lecture 16 Practice Problem](../handouts/lecture16/lecture16-handout.pdf) [Lecture 16 Practice Problem Solution](../handouts/lecture16/lecture16-handoutSol.pdf) | 6.1 pg. 260-265 |
+> July 24 | [Lecture 17: Recursion](../lectures/lecture17.html) | 6.3 pg. 279-285 |
 > July 29 | [Lecture 17: Recursion](../lectures/lecture17.html) | 6.3 pg. 279-285 |
-> July 31 | [Lecture 17: Recursion](../lectures/lecture17.html) <br /> [Lecture 18: Relations](../lectures/lecture18.html) | 6.3 pg. 279-285 <br /> 4.1-4.3 pg. 163-186 |
+> July 31 | [Lecture 18: Relations](../lectures/lecture18.html) | 4.1-4.3 pg. 163-186 |
 > Aug 5   | [Lecture 18: Relations](../lectures/lecture18.html) <br /> [Lecture 19: Functions](../lectures/lecture19.html) | 4.1-4.3 pg. 163-186 <br /> 5.1 pg. 226-233 |
 > Aug 7   | [Lecture 19: Functions](../lectures/lecture19.html) <br /> [Lecture 20: Function Properties](../lectures/lecture20.html) | 5.1 pg. 226-233 <br /> 5.2-5.3 pg. 236-252 |

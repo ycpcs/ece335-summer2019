@@ -27,5 +27,6 @@ All information about the course will be posted here.
 * **July 10** - [Assignment 4](assign/assign04.html) due in class
 * **July 17** - [Assignment 5](assign/assign05.html) due in class
 * **July 17 - EXAM 2**
+* **July 29** - [Assignment 6](assign/assign06.html) due in class
 * **Aug 12 - EXAM 3**
 * **Aug 14 - FINAL EXAM**
