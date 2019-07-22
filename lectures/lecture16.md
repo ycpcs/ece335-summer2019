@@ -1,5 +1,5 @@
 ---
-layout: default 
+layout: default
 title: "Lecture 16: Proof by Induction"
 ---
 
