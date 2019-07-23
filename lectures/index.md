@@ -26,7 +26,7 @@ Edition. Cambridge University Press,
 > July 10 | [Lecture 13: Proofs Involving Conjunctions and Biconditionals](../lectures/lecture13.html) <br /> [Lecture 13 Practice Problem](../handouts/lecture13/lecture13-handout.pdf) [Lecture 13 Practice Problem Solution](../handouts/lecture13/lecture13-handoutSol.pdf) | 3.4 pg. 124-133 <br /> 3.5 pg. 136-143 |
 > July 15 | [Lecture 14: Proofs Involving Disjunctions](../lectures/lecture14.html) <br /> [Lecture 15: Existence and Uniqueness Proofs](../lectures/lecture15.html) <br /> [Lecture 14 Practice Problem](../handouts/lecture14/lecture14-handout.pdf) [Lecture 14 Practice Problem Solution](../handouts/lecture14/lecture14-handoutSol.pdf) | 3.5 pg. 136-143 <br /> 3.6 pg. 146-153 |
 > July 22 | [Lecture 16: Proof by Mathematical Induction](../lectures/lecture16.html) <br /> [Lecture 16 Practice Problem](../handouts/lecture16/lecture16-handout.pdf) [Lecture 16 Practice Problem Solution](../handouts/lecture16/lecture16-handoutSol.pdf) | 6.1 pg. 260-265 |
-> July 24 | [Lecture 17: Recursion](../lectures/lecture17.html) | 6.3 pg. 279-285 |
+> July 24 | [Lecture 17: Recursion](../lectures/lecture17.html) <br /> [Lecture 17 Practice Problem](../handouts/lecture17/lecture17-handout.pdf) [Lecture 17 Practice Problem Solution](../handouts/lecture17/lecture17-handoutSol.pdf) | 6.3 pg. 279-285 |
 > July 29 | [Lecture 17: Recursion](../lectures/lecture17.html) | 6.3 pg. 279-285 |
 > July 31 | [Lecture 18: Relations](../lectures/lecture18.html) | 4.1-4.3 pg. 163-186 |
 > Aug 5   | [Lecture 18: Relations](../lectures/lecture18.html) <br /> [Lecture 19: Functions](../lectures/lecture19.html) | 4.1-4.3 pg. 163-186 <br /> 5.1 pg. 226-233 |
