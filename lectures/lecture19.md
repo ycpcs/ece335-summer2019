@@ -85,7 +85,7 @@ Composition
 > Suppose *f*: *A* → *B* and *g*: *B* → *C*. Then *g* ○ *f* : *A* → *C*
 > and (*g* ○ *f*)(*a*) = *g*(*f*(*a*))
 
-**Example 2**
+**Example 3**
 
 > Let *f*: ℕ → ℕ *f(n)* = *n*<sup>2</sup> + 2*n* + 1
 
