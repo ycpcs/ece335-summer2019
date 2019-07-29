@@ -79,7 +79,7 @@ Relations
 > 
 > The *inverse* of a relation *R* is the set of ordered pairs (*b*, *a*) such that (*a*, *b*) is in *R*. Formally,
 >
-> *R*<sup>-1</sup> = {(*b*, *a*) ∈ *B* × *A* \| (*a*, *b*) ∈ *R*}
+> *R* <sup>-1</sup> = {(*b*, *a*) ∈ *B* × *A* \| (*a*, *b*) ∈ *R*}
 
 > *Composition*
 >
@@ -111,21 +111,21 @@ The range is the set of courses that have students enrolled in them
 The inverse is the relation between courses and students enrolled in
 them
 
-> *E*<sup>-1</sup> = {(*c*, *s*) ∈ *C* × *S* \| (*s*, *c*) ∈ *E*}
+> *E* <sup>-1</sup> = {(*c*, *s*) ∈ *C* × *S* \| (*s*, *c*) ∈ *E*}
 
 **Example 4**
 
 > Using the relation *E* from the previous example, determine
 
-> *E*<sup>-1</sup> ○ *E* and *E* ○ *E*<sup>-1</sup>
+> *E* <sup>-1</sup> ○ *E* and *E* ○ *E* <sup>-1</sup>
 
-For *E*<sup>-1</sup> ○ *E*, since *E* is a relation from *S* to *C* and *E*<sup>-1</sup>
-is a relation from *C* to *S*, *E*<sup>-1</sup> ○ *E* will be a relation from *S*
+For *E* <sup>-1</sup> ○ *E*, since *E* is a relation from *S* to *C* and *E* <sup>-1</sup>
+is a relation from *C* to *S*, *E* <sup>-1</sup> ○ *E* will be a relation from *S*
 to *S*. Thus if we let *s* and *t* be two elements of *S*, then by the
 definition
 
-> *E*<sup>-1</sup> ○ *E* = {(*s*, *t*) ∈ *S* × *S* \| ∃*c* ∈ *C* ((*s*, *c*) ∈
-> *E* ∧ (*c*, *t*) ∈ *E*<sup>-1</sup>)}
+> *E* <sup>-1</sup> ○ *E* = {(*s*, *t*) ∈ *S* × *S* \| ∃*c* ∈ *C* ((*s*, *c*) ∈
+> *E* ∧ (*c*, *t*) ∈ *E* <sup>-1</sup>)}
 >
 > > = {(*s*, *t*) ∈ *S* × *S* \| ∃*c* ∈ *C* (*s* is enrolled in *c* and
 > > *c* is a course that *t* is enrolled in)}
@@ -133,16 +133,16 @@ definition
 > > = {(*s*, *t*) ∈ *S* × *S* \| ∃*c* ∈ *C* (both *s* and *t* are
 > > enrolled in *c*)}
 >
-> Thus *E*<sup>-1</sup> ○ *E* are the pairs of students that are enrolled in the
+> Thus *E* <sup>-1</sup> ○ *E* are the pairs of students that are enrolled in the
 > same courses.
 
-For *E* ○ *E*<sup>-1</sup>, since *E*<sup>-1</sup> is a relation from *C* to *S* and *E*
-is a relation from *S* to *C*, *E* ○ *E*<sup>-1</sup> will be a relation from *C*
+For *E* ○ *E* <sup>-1</sup>, since *E* <sup>-1</sup> is a relation from *C* to *S* and *E*
+is a relation from *S* to *C*, *E* ○ *E* <sup>-1</sup> will be a relation from *C*
 to *C*. Thus if we let *c* and *d* be two elements of *C*, then by the
 definition
 
-> *E* ○ *E*<sup>-1</sup> = {(*c*, *d*) ∈ *C* × *C* \| ∃*s* ∈ *S* ((*c*, *s*) ∈
-> *E*<sup>-1</sup> ∧ (*s*, *d*) ∈ *E*)}
+> *E* ○ *E* <sup>-1</sup> = {(*c*, *d*) ∈ *C* × *C* \| ∃*s* ∈ *S* ((*c*, *s*) ∈
+> *E* <sup>-1</sup> ∧ (*s*, *d*) ∈ *E*)}
 >
 > > = {(*c*, *d*) ∈ *C* × *C* \| ∃*s* ∈ *S* (*c* is a course *s* is
 > > enrolled in and *s* is enrolled in course *d*)}
@@ -150,7 +150,7 @@ definition
 > > = {(*c*, *d*) ∈ *C* × *C* \| ∃*s* ∈ *S* (*s* is enrolled in both *c*
 > > and *d*)}
 >
-> Thus *E* ○ *E*<sup>-1</sup> are the pairs of courses each student is enrolled
+> Thus *E* ○ *E* <sup>-1</sup> are the pairs of courses each student is enrolled
 > in.
 
 *Properties of Relations*
@@ -159,12 +159,12 @@ Suppose *R* is a relation from *A* to *B*, *S* is a relation from *B* to
 *C*, and *T* is a relation from *C* to *D*. Then the following
 properties hold
 
-> 1.  (*R*<sup>-1</sup>)<sup>-1</sup> = *R*.
-> 2.  Dom(*R*<sup>-1</sup>) = Range(*R*).
-> 3.  Range(*R*<sup>-1</sup>) = Dom(*R*).
+> 1.  (*R* <sup>-1</sup>)<sup>-1</sup> = *R*.
+> 2.  Dom(*R* <sup>-1</sup>) = Range(*R*).
+> 3.  Range(*R* <sup>-1</sup>) = Dom(*R*).
 > 4.  *T* ○ (*S* ○ *R*) = (*T* ○ *S*) ○ *R* (i.e. associativity for
 >     composition)
-> 5.  (*S* ○ *R*)<sup>-1</sup> = *R*<sup>-1</sup> ○ *S*<sup>-1</sup>.
+> 5.  (*S* ○ *R*)<sup>-1</sup> = *R* <sup>-1</sup> ○ *S* <sup>-1</sup>.
 
 Binary Relations
 ================
@@ -210,7 +210,7 @@ We will use an alternative notation for binary relations
 >
 >     > *i*<sub>A</sub> = {(*x*, *y*) ∈ *A* × *A* \| *x* = *y*}
 >
-> 2.  *R* is *symmetric* ↔ *R* = *R*<sup>-1</sup>
+> 2.  *R* is *symmetric* ↔ *R* = *R* <sup>-1</sup>
 >
 > 3.  *R* is *transitive* ↔ *R* ○ *R* ⊆ *R*
 
@@ -252,16 +252,16 @@ Thus the relation *S* has the elements
 
 **Example 6**
 
-> Prove *R* is *symmetric* ↔ *R* = *R*<sup>-1</sup>
+> Prove *R* is *symmetric* ↔ *R* = *R* <sup>-1</sup>
 
 > (→) Assume *R* is *symmetric* and let *xRy*.
 > > 
-> > Since *R* is symmetric and *xRy* ⇒ *yRx*. But for *xRy*, *yR*<sup>-1</sup>*x* and thus *R* ⊆ *R*<sup>-1</sup>.
+> > Since *R* is symmetric, *xRy* ⇒ *yRx*. But for *xRy*, *yR* <sup>-1</sup>*x* and thus *R* ⊆ *R* <sup>-1</sup>.
 > > 
-> > Similarly, suppose *xR*<sup>-1</sup>*y*. Then *yRx* and since *R* is symmetric ⇒ *xRy* and hence *R*<sup>-1</sup> ⊆ *R*.
+> > Similarly, suppose *xR* <sup>-1</sup>*y*. Then *yRx* and since *R* is symmetric ⇒ *xRy* and hence *R* <sup>-1</sup> ⊆ *R*.
 > > 
-> > Thus since *R* ⊆ *R*<sup>-1</sup> and *R*<sup>-1</sup> ⊆ *R*, *R* = *R*<sup>-1</sup>.
+> > Thus since *R* ⊆ *R* <sup>-1</sup> and *R* <sup>-1</sup> ⊆ *R*, *R* = *R* <sup>-1</sup>.
 
-> (←) Assume *R* = *R*<sup>-1</sup> and let *xRy*. 
+> (←) Assume *R* = *R* <sup>-1</sup> and let *xRy*. 
 > > 
-> > Since *R* = *R*<sup>-1</sup> ⇒ *xR*<sup>-1</sup>*y* and thus *yRx*. Hence *xRy* → *yRx* which means *R* is *symmetric*.
+> > Since *R* = *R* <sup>-1</sup> ⇒ *xR* <sup>-1</sup>*y* and thus *yRx*. Hence *xRy* → *yRx* which means *R* is *symmetric*.
