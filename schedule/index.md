@@ -32,9 +32,9 @@ Edition. Cambridge University Press,
 > July 17 | **EXAM 2** <br /> [Assignment 5](../assign/assign05.html) **Due 7/17** | |
 > July 22 | [Lecture 16: Proof by Mathematical Induction](../lectures/lecture16.html) <br /> [Lecture 16 Practice Problem](../handouts/lecture16/lecture16-handout.pdf) [Lecture 16 Practice Problem Solution](../handouts/lecture16/lecture16-handoutSol.pdf) | 6.1 pg. 260-265 |
 > July 24 | [Lecture 17: Recursion](../lectures/lecture17.html) <br /> [Lecture 17 Practice Problem](../handouts/lecture17/lecture17-handout.pdf) [Lecture 17 Practice Problem Solution](../handouts/lecture17/lecture17-handoutSol.pdf)| 6.3 pg. 279-285 |
-> July 29 | [Lecture 17: Recursion](../lectures/lecture17.html) <br /> [Assignment 6](../assign/assign06.html) **Due 7/29** | 6.3 pg. 279-285 |
-> July 31 | [Lecture 18: Relations](../lectures/lecture18.html) | 4.1-4.3 pg. 163-186 |
-> Aug 5   | [Lecture 18: Relations](../lectures/lecture18.html) <br /> [Lecture 19: Functions](../lectures/lecture19.html) | 4.1-4.3 pg. 163-186 <br /> 5.1 pg. 226-233 |
-> Aug 7   | [Lecture 19: Functions](../lectures/lecture19.html) <br /> [Lecture 20: Function Properties](../lectures/lecture20.html) | 5.1 pg. 226-233 <br /> 5.2-5.3 pg. 236-252 |
+> July 29 | [Lecture 18: Relations](../lectures/lecture18.html) <br /> [Lecture 18 Practice Problem](../handouts/lecture18/lecture18-handout.pdf) [Lecture 18 Practice Problem Solution](../handouts/lecture18/lecture18-handoutSol.pdf) <br /> [Assignment 6](../assign/assign06.html) **Due 7/29** | 4.1-4.3 pg. 163-186 |
+> July 31 | [Lecture 19: Functions](../lectures/lecture19.html) | 5.1 pg. 226-233 |
+> Aug 5   | [Lecture 20: Function Properties](../lectures/lecture20.html) | 5.2-5.3 pg. 236-252 |
+> Aug 7   | [Lecture 20: Function Properties](../lectures/lecture20.html) <br /> [Assignment 7](../assign/assign07.html) **Due 8/7** | 5.2-5.3 pg. 236-252 |
 > Aug 12  | **EXAM 3** | |
 > Aug 14  | **FINAL EXAM** | |
